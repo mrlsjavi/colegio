@@ -18,8 +18,6 @@ require_once("models/ORM.php");
 require_once("models/general_orm.php");
 require_once("models/pagina_orm.php");
 require_once("models/rol_orm.php");
-require_once("models/pago_orm.php");
-
 
 //require_once("models/orm/accion_model.php"); //llego al model pero no al orm -_-
 //require_once("")
